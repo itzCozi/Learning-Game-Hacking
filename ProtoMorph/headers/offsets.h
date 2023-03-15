@@ -1,7 +1,7 @@
 #pragma once
 #include <Windows.h>
 #include <stdint.hpp>
-#include "helpers.h"
+#include "headers/helpers.h"
 
 #ifndef OFFSETS_H
 #define OFFSETS_H

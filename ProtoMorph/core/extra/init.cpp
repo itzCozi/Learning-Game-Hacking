@@ -1,10 +1,10 @@
 #include <Windows.h>
 #include <iostream>
 #include "init.h"
-#include "hack.h"
-#include "offsets.h"
-#include "config.h"
-#include "Menu.h"
+#include "core/aimbot/aimbot.h"
+#include "headers/offsets.h"
+#include "headers/config.h"
+#include "headers/menu.h"
 
 Menu m;
 

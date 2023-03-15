@@ -7,8 +7,8 @@
 #include <stdio.h>
 #include <string>
 #include <gl/GL.h>
-#include "offsets.h"
-#include "Imgui/imgui.h"
+#include "headers/offsets.h"
+#include "imgui/imgui.h"
 
 //Namespace with drawing and font functions(Reference Rake's OpenGl tut)
 namespace GL

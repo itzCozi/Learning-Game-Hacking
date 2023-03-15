@@ -12,12 +12,12 @@
 #include "proc/proc.h"
 #include "ProtoMorph.cpp"
 
-#include "main.h"
-#include "hook.h"
-#include "helpers.h"
-#include "menu.h"
-#include "offsets.h"
-#include "targetver.h"
+#include "headers/main.h"
+#include "headers/hook.h"
+#include "headers/helpers.h"
+#include "headers/menu.h"
+#include "headers/offsets.h"
+#include "headers/targetver.hpp"
 
 #define WIN32_LEAN_AND_MEAN             // Exclude rarely-used stuff from Windows headers
 // Windows Header Files

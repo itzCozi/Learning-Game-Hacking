@@ -1,5 +1,5 @@
 #pragma once
-#include "Imgui/imgui.h"
+#include "imgui/imgui.h"
 
 #ifndef CONFIG_H
 #define CONFIG_H

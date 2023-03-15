@@ -1,9 +1,9 @@
 #include <Windows.h>
 #include <stdint.h>
-#include "Imgui/imgui.h"
-#include "offsets.h"
-#include "drawing.h"
-#include "config.h"
+#include "imgui/imgui.h"
+#include "headers/offsets.h"
+#include "core/esp/drawing.h"
+#include "config/config.h"
 
 //Config for hack; used to turn features on and off
 int Config::health = 1337;

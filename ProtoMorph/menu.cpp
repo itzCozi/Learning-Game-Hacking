@@ -1,10 +1,11 @@
-#include "Imgui/imgui.h"
-#include "Imgui/imgui_impl_win32.h"
-#include "Imgui/imgui_impl_opengl2.h"
+#include "imgui/imgui.h"
+#include "imgui/imgui_impl_win32.h"
+#include "imgui/imgui_impl_opengl2.h"
 #include <iostream>
 #include "headers/menu.h"
 #include "headers/offsets.h"
 #include "config/config.h"
+#include "headers/stdafx.hpp"
 #include "headers/hook.h"
 
 //Options used in menu combos

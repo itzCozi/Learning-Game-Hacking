@@ -1,12 +1,12 @@
 #include <Windows.h>
 #include <iostream>
 #include <stdint.h>
-#include "offsets.h"
-#include "hack.h"
-#include "drawing.h"
-#include "config.h"
-#include "helpers.h"
-#include "menu.h"
+#include "headers/offsets.h"
+#include "core/aimbot/aimbot.h"
+#include "core/esp/drawing.h"
+#include "config/config.h"
+#include "headers/helpers.h"
+#include "headers/menu.h"
 
 GL::Font font;
 

@@ -3,8 +3,8 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "config.h"
-#include "drawing.h"
+#include "config/config.h"
+#include "core/esp/drawing.h"
 
 class GL::Font f;
 

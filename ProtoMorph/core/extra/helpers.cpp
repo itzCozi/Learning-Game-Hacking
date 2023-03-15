@@ -4,9 +4,9 @@
 #include <iostream>
 #include <math.h>
 #include <float.h>
-#include "drawing.h"
-#include "offsets.h"
-#include "config.h"
+#include "core/esp/drawing.h"
+#include "headers/offsets.h"
+#include "config/config.h"
 
 //Patches bytes. Explained in the beginners guide
 void Patch(BYTE* dst, BYTE* src, unsigned int size)
