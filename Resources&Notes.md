@@ -40,9 +40,9 @@ Everything i use or will need is kept here for easy access.
 Below is a layout of how I will approach learning game hacking with C++ each layout is a check list with links to the corresponding chapter in the game hacking bible.
 
 ## Initial Learning
-[ ] Review basics of cracking and memory with [CS420](https://guidedhacking.com/threads/squally-cs420-game-hacking-course.14191/)  
-[ ] Learn how to use [Cheat Engine](https://guidedhacking.com/threads/beginner-cheat-engine-tutorial-video-guide.9690/)  
-[ ] More in depth [Cheat Engine](https://guidedhacking.com/threads/how-to-hack-any-game-cheat-engine.7194/)  
+[x] Review basics of cracking and memory with [CS420](https://guidedhacking.com/threads/squally-cs420-game-hacking-course.14191/)  
+[x] Learn how to use [Cheat Engine](https://guidedhacking.com/threads/beginner-cheat-engine-tutorial-video-guide.9690/)  
+[x] More in depth [Cheat Engine](https://guidedhacking.com/threads/how-to-hack-any-game-cheat-engine.7194/)  
 [ ] Learning about [coordinates](https://guidedhacking.com/threads/how-to-find-position-coordinates-with-cheat-engine.14000/) and [view angles](https://guidedhacking.com/threads/how-to-find-view-angles-with-cheat-engine.13994/)  
 [ ] Coding your [first cheat](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911/#:~:text=Game%20Hacking%20with%20Reclass%20Tutorial%20Video%201)  
 [ ] Review [C++](https://guidedhacking.com/threads/how-to-learn-c-programming-where-to-learn-c.10820/) and [Windows API](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911/#:~:text=Windows%20API%20Beginner%20Guide)  
