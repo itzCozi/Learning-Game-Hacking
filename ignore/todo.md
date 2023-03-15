@@ -1,6 +1,6 @@
 [tutorial](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911/)
 ALL FILES NEED TESTING
-
+NEXT PROJECT: CSGO INTERNAL/BYPASSING VAC
 
 - take functions from [this](https://github.com/1nUrF4c3/ProtoGenesys/blob/master/ProtoGenesys/DllMain.cpp) ensure you have the dependecies
 - ensure the stdafx.hpp file has all headers
