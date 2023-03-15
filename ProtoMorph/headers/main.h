@@ -1,4 +1,4 @@
 #pragma once
-#include "stdafx.h"
+#include "stdafx.hpp"
 
 DWORD WINAPI HackThread(HMODULE hModule);
